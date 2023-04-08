@@ -1,0 +1,94 @@
+body{
+background: linear-gradient(to bottom,rgb(253, 80, 109),blue);
+
+
+}
+div{
+width: 25%;
+height: 85%;
+background-color: white;
+position: relative;
+top: 8%;
+left: 37%;
+}
+.cd{
+width: 70%;
+height: 8%;
+background-color: rgb(206, 206, 206);
+position: relative;
+top: 15%;
+left: 13%;
+margin: 2%;
+text-decoration: none;
+font-size: larger;
+border: 0px;
+}
+h1{margin: 0%; padding: 0%; 
+position: relative;
+top: 10%;
+left: 38%;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#moein{
+position: relative;
+top: 21%;
+right: 61%;
+
+}
+p{
+position: relative;
+top: 11%;
+left: 20%;
+font-family: Arial, Helvetica, sans-serif;
+}
+#dada{
+    width: 70%;
+    height: 8%;
+background-color: rgb(247, 27, 141);
+position: relative;
+left: 14%;
+top: 15%;
+color: white;
+border: 0px;
+}
+h4{
+position: relative;
+top: 23%;
+left: 28%;
+color: rgb(151, 150, 150);
+margin: 0px;
+}
+.mn{
+position: relative;
+top: 28%;
+left: 30%;
+border: 1px solid lightgrey;
+padding-right: 40px;
+text-decoration: none;
+color: black;
+box-sizing: border-box;
+margin-left: -43px;
+}
+.cv{
+position: relative;
+left: 13%;
+top: 28%;
+border: 1px solid lightgray;
+padding-right: 45px;
+text-decoration: none;
+color: rgb(0, 0, 217);
+}
+.vvv{
+position: relative;
+top: 41%;
+left: 20%;
+color: rgb(153, 153, 153);
+
+}#bbb{
+position: relative;
+top: 34.5%;
+left: 52%;
+color: rgb(156, 154, 154);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
